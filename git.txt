@@ -14,3 +14,5 @@ yeniden sadece pull
 
 conflict 3
 cf all ok
+
+devam push

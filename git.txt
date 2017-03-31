@@ -1,13 +1,18 @@
 Hello Local
 
+cf local
+
 Hello tamam
 devam
 
 test branch
-
+cf 2
 local2 en pull
 sadece pul
 
 yeniden sadece pull
 
 conflict 3
+cf 2
+
+

@@ -10,4 +10,4 @@ sadece pul
 
 yeniden sadece pull
 
-conflict 2
+conflict 3

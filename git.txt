@@ -9,3 +9,5 @@ local2 en pull
 sadece pul
 
 yeniden sadece pull
+
+conflict 2

@@ -6,4 +6,6 @@ devam
 test branch
 
 local2 en pull
-sadece pull?
+sadece pul
+
+yeniden sadece pull

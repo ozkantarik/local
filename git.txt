@@ -6,3 +6,4 @@ devam
 test branch
 
 local2 en pull
+sadece pull?

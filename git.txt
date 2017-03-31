@@ -1,1 +1,32 @@
 Hello Local
+
+cf resolved
+
+Hello tamam
+devam
+
+test branch
+cf ok
+local2 en pull
+sadece pul
+
+yeniden sadece pull
+
+conflict 3
+cf all ok
+
+devam push
+
+oldumu
+
+staging
+
+devam
+devam
+
+xp
+=======
+editing remote branch
+editing remote branch
+editing remote branch
+editing remote branch

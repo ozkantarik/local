@@ -4,3 +4,5 @@ Hello tamam
 devam
 
 test branch
+
+local2 en pull

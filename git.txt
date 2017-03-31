@@ -25,3 +25,6 @@ devam
 devam
 
 editing remote branch
+editing remote branch
+editing remote branch
+editing remote branch

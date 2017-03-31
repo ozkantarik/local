@@ -18,3 +18,8 @@ cf all ok
 devam push
 
 oldumu
+
+staging
+
+devam
+devam
